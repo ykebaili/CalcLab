@@ -1,0 +1,8 @@
+C:\Sources\Kleno\CalcLab\CalcLab\bin\CalcLab.dll.config
+C:\Sources\Kleno\CalcLab\CalcLab\bin\CalcLab.dll
+C:\Sources\Kleno\CalcLab\CalcLab\bin\CalcLab.pdb
+C:\Sources\Kleno\CalcLab\CalcLab\obj\Debug\CalcLab.csprojResolveAssemblyReference.cache
+C:\Sources\Kleno\CalcLab\CalcLab\obj\Debug\CalcLab.dll
+C:\Sources\Kleno\CalcLab\CalcLab\obj\Debug\CalcLab.pdb
+C:\Sources\Kleno\CalcLab\CalcLab\bin\sc2i.common.dll
+C:\Sources\Kleno\CalcLab\CalcLab\bin\sc2i.expression.dll

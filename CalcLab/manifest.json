@@ -1,0 +1,91 @@
+{
+  "name": "Aspectize CalcLab",
+  "short_name": "CalcLab",
+  "start_url": "/CalcLab/app.ashx",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#222",
+  "description": "A progressive web app, built with Aspectize",
+  "icons": [
+	{
+      "src": "https://via.placeholder.com/24x24",
+      "sizes": "24x24",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/48x48",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/50x50",
+      "sizes": "50x50",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/72x72",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/88x88",
+      "sizes": "88x88",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/96x96",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/120x120",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/144x144",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/152x152",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+	{
+      "src": "https://via.placeholder.com/167x167",
+      "sizes": "167x167",
+      "type": "image/png"
+    },
+	{
+      "src": "https://via.placeholder.com/180x180",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/192x192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/300x300",
+      "sizes": "300x300",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/620x300",
+      "sizes": "620x300",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/1240x600",
+      "sizes": "1240x600",
+      "type": "image/png"
+    },
+	{
+      "src": "https://via.placeholder.com/1024x1024",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    } 
+  ]
+}

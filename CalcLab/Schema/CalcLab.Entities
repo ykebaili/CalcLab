@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<diagram xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="87482963-a788-417e-9dc3-e5e8238dcf27" domain="CalcLab" xmlns="http://schemas.microsoft.com/dsltools/EntityDesigner">
+  <entities>
+    <entity Id="848b1686-31a2-4129-8f13-017c2f1a1c90" name="ExpressionAnalysable" guid="a5524147-0ebc-4374-a1c4-ea0726d27b85" hasCustomValidators="false" hasTriggers="false">
+      <properties>
+        <entityProperty name="Formule" identity="false" isEnumType="false" isCompoType="false" isExternType="false" isEnumInBaseType="false" />
+        <entityProperty name="Resultat" identity="false" isEnumType="false" isCompoType="false" isExternType="false" isEnumInBaseType="false" />
+      </properties>
+    </entity>
+  </entities>
+</diagram>

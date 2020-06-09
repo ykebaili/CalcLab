@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<minimalLanguageDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="CalcLab">
+  <diagramMoniker Id="87482963-a788-417e-9dc3-e5e8238dcf27" />
+  <nestedChildShapes>
+    <entityShape Id="4daa7485-5bc2-412f-bda4-a7e3d6a3296b" absoluteBounds="5.125, 1.125, 1.75, 0.81460286458333342">
+      <entityMoniker Id="848b1686-31a2-4129-8f13-017c2f1a1c90" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b7d9104a-6e7d-49b0-a656-4f239631e00d" absoluteBounds="5.14, 1.455, 1.7200000000000002, 0.38460286458333331" name="Properties" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </entityShape>
+  </nestedChildShapes>
+</minimalLanguageDiagram>
