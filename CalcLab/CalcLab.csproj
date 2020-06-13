@@ -111,6 +111,7 @@
     <Content Include="Scripts\_references.js" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Services\SimulationPhysiqueService.js" />
     <Content Include="web.config" />
   </ItemGroup>
   <ItemGroup>

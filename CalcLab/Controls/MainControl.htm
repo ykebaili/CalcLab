@@ -27,6 +27,41 @@
                 </div>
             </div>
 
+            <div class="row">
+                <div class="col-xs-12">
+                    <h2>Courbes de poursuite</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-3">
+                    <div id="bl1">
+                        <label> <input type="radio" id="ra1" name="rad" onClick="choix1()" checked="checked" />Polygones</label>
+                        <label> <input type="radio" id="ra2" name="rad" onClick="choix2()" />Triangle</label>
+                    </div>
+                    
+                </div>
+                <div class="col-xs-3">
+                    <div id="bl2">
+                        <input type="number" id="num" name="num" min="3" max="10" step="1" value="4" onClick="choix()">
+                        <label>&nbsp;&nbsp;&nbsp;</label>
+                    </div>
+                </div>
+                <div class="col-xs-3">
+                    <label id="lab"> <input type="checkbox" id="chk" name="rad2" onClick="choix3()" />Positions</label>
+                </div>
+                <div class="col-xs-3">
+                    <button name="BoutonDEpart" class="btn btn-primary">Départ</button>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12">
+                    <div id="canv">
+                        <canvas id="canvas" width="600" height="480"style="background-color:#e0e0e0"></canvas>
+                    </div>
+                </div>
+            </div>
+
+
         </div>
     </div>
 </body>

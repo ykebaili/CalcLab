@@ -3,3 +3,4 @@ var mainView = Aspectize.CreateView("MainView", aas.Controls.MainControl, "", tr
 mainView.ButtonEvaluer.click.BindCommand(aas.Services.Server.CalcLabService.Evaluer(mainView.TextExpression.value, mainView.ParentData.Id), "MainData", true, true);
 mainView.ResultatExpression.BindData(mainView.ParentData.Resultat);
 
+mainView.BoutonDEpart.click.BindCommand(aas.Services.Browser.SimulationPhysiqueService.Poursuite());
